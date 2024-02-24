@@ -20,6 +20,7 @@
 .leftcontent-wrapper img{
 	margin		: 10px 0;
 	width		: 180px;
+	border-radius: 100%;
 	}
 .rightcontent-wrapper{
 	position	: relative;
